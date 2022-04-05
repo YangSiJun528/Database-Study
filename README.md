@@ -9,11 +9,16 @@
 ## GCMS
 - GCMS란?
 
-# Content 📃
+# Book 📚
 
 ## "데이터베이스 첫걸음" 도서 정리 
 
 ## "SQL 레벨업" 도서 정리
 
-## TIL
+# TIL ✏
 
+## DBMS
+
+## MySQL (MariaDB)
+
+# Useful Site 🔍
