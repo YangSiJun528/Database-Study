@@ -12,6 +12,7 @@
 # Book 📚
 
 ## "데이터베이스 첫걸음" 도서 정리 
+- [1장 DBMS 아키텍처](./Books/database-first-steps/DBMS-architecture.md)
 
 ## "SQL 레벨업" 도서 정리
 
