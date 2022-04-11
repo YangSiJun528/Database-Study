@@ -15,6 +15,7 @@
 - [1장 DBMS 아키텍처](./Books/database-first-steps/DBMS-architecture.md)
 - [2장 SQL 기초](./Books/database-first-steps/basic-SQL.md)
 - [3장 SQL 조건분기](./Books/database-first-steps/SQL-conditional-branch.md)
+- [4장 데이터베이스와 아키텍처 구성](./Books/database-first-steps/architecture-configuration.md)
 
 ## "SQL 레벨업" 도서 정리
 
